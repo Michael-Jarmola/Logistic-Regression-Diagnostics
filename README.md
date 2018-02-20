@@ -1,4 +1,4 @@
-# Logistic-Regression-Diagnostics
+# Logistic Regression Diagnostics
 This function reviews the diagnostic tests of a logistic regression. 
 
 We print:
