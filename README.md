@@ -9,3 +9,5 @@ We print:
 * The Hosmer-Lemeshow Test to varify ranking of the output.
 * A Confusion Matrix to gauge precision and accuracy.
 
+This function only needs the model and dependent variable specified. The output is a list of the diagnostics. 
+
